@@ -30,9 +30,4 @@ try{
 				  color: 'danger',
 				  message: "Job -  ${env.JOB_NAME}, Failed, Build URL is ${env.BUILD_URL}"
    error 'Something wrong'
-
-# demo 3
-
-# demo 987
-# fet 3
-# dev
+}
