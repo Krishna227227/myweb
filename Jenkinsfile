@@ -31,3 +31,4 @@ try{
 				  message: "Job -  ${env.JOB_NAME}, Failed, Build URL is ${env.BUILD_URL}"
    error 'Something wrong'
 }
+# demo 9
